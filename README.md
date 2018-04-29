@@ -15,13 +15,13 @@ Dependent variable is the time recorded for the test
 ### Hypothesis
 Null hypothesis: there is no difference in the population mean time spent between congruent words task and incongruent words task.
 
-H0: $$\mu(congruent) = \mu(incongruent)$$
+H0: mean(congruent) = mean(incongruent)
 
 Alternative hypothesis: the mean time spent for the congruent words task is different from the mean time spent for the incongruent words task.
 
-Ha: $$\mu(congruent) \neq \mu(incongruent)$$
+Ha: mean(congruent) != mean(incongruent)
 
-Here, $\mu(congruent)$ is the population mean of time spent on congruent words tasks, and $\mu(incongruent)$ is the population mean of time spent on incongruent words tasks.
+Here, mean(congruent) is the population mean of time spent on congruent words tasks, and $\mu(incongruent)$ is the population mean of time spent on incongruent words tasks.
 
 Type of Hypothesis: two-tailed t-test with dependent samples
 
