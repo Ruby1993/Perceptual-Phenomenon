@@ -1,13 +1,5 @@
----
-title: "Statistics Project-Stroop task"
-output:
-  html_document: default
-  pdf_document: default
----
+# Statistics Project-Stroop task
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Background Information
 
